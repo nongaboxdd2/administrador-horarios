@@ -6,6 +6,6 @@ import tailwind from "@astrojs/tailwind";
 // https://astro.build/config
 export default defineConfig({
   integrations: [vue(), tailwind()],
-  site: 'https://jgqh.github.io',
+  site: 'https://nongaboxdd2.github.io',
   base: '/administrador-horarios'
 });
